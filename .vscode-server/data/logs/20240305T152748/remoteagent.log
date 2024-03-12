@@ -1,0 +1,23 @@
+2024-03-05 15:27:48.557 [info] 
+
+
+
+
+2024-03-05 15:27:48.580 [info] Extension host agent started.
+2024-03-05 15:27:48.962 [info] [127.0.0.1][eed524ae][ManagementConnection] New connection established.
+2024-03-05 15:27:49.689 [info] [127.0.0.1][2f304889][ExtensionHostConnection] New connection established.
+2024-03-05 15:27:49.696 [info] [127.0.0.1][2f304889][ExtensionHostConnection] <2298> Launched Extension Host Process.
+2024-03-05 15:28:46.064 [info] Getting Manifest... ritwickdey.liveserver
+2024-03-05 15:28:46.510 [info] Installing extension: ritwickdey.liveserver
+2024-03-05 15:28:52.542 [info] Extension signature is verified: ritwickdey.liveserver
+2024-03-05 15:28:58.146 [info] Extracted extension to file:///home/karolay/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-03-05 15:28:58.196 [info] Renamed to /home/karolay/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-03-05 15:28:58.201 [info] Extracting extension completed. ritwickdey.liveserver
+2024-03-05 15:28:58.216 [info] Extension installed successfully: ritwickdey.liveserver
+2024-03-05 15:29:16.690 [info] [127.0.0.1][eed524ae][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-05 15:29:16.810 [info] [127.0.0.1][2f304889][ExtensionHostConnection] <2298> Extension Host Process exited with code: 0, signal: null.
+2024-03-05 15:29:19.808 [info] [127.0.0.1][f3110141][ManagementConnection] New connection established.
+2024-03-05 15:29:20.158 [info] [127.0.0.1][e5d2ebd5][ExtensionHostConnection] New connection established.
+2024-03-05 15:29:20.169 [info] [127.0.0.1][e5d2ebd5][ExtensionHostConnection] <2625> Launched Extension Host Process.
+2024-03-05 15:29:56.492 [info] [127.0.0.1][f3110141][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-05 15:29:56.628 [info] [127.0.0.1][e5d2ebd5][ExtensionHostConnection] <2625> Extension Host Process exited with code: 0, signal: null.
